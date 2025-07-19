@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikelondons
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ReactJS and TailwindCSS
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on projects with my friends
 - ⚡ Fun fact: I've read the git book 3 or 4 times.
 
